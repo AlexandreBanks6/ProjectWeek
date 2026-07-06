@@ -35,6 +35,15 @@ key_investigators:
 
 ---
 
+## Github Repository
+
+- [dicom-curate](https://github.com/clintools/dicom-curate)
+
+## Funding Source(s)
+
+- [R01EB035679](https://reporter.nih.gov/project-details/11267990)
+- [R21EB034075](https://reporter.nih.gov/project-details/10741596)
+
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->

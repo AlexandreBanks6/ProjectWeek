@@ -27,6 +27,15 @@ key_investigators:
 
 ---
 
+## Github Repository
+
+- [SlicerUltrasound](https://github.com/SlicerUltrasound/SlicerUltrasound)
+
+## Funding Source(s)
+
+- [R01EB035679](https://reporter.nih.gov/project-details/11267990)
+- [R21EB034075](https://reporter.nih.gov/project-details/10741596)
+
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->

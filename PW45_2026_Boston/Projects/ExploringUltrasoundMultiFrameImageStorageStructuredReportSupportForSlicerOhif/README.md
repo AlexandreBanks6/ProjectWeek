@@ -35,6 +35,17 @@ key_investigators:
 
 ---
 
+## Github Repository
+
+- [SlicerUltrasound](https://github.com/SlicerUltrasound/SlicerUltrasound)
+- [create_LUS_SR](https://github.com/deepakri201/create_LUS_SR)
+- [lus-dashboard](https://github.com/deepakri201/lus-dashboard)
+
+## Funding Source(s)
+
+- [R01EB035679](https://reporter.nih.gov/project-details/11267990)
+- [R21EB034075](https://reporter.nih.gov/project-details/10741596)
+
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->

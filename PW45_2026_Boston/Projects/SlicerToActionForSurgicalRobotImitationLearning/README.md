@@ -17,6 +17,10 @@ key_investigators:
   affiliation: Korea Institute of Machinery Materials
   country: Republic of Korea
 
+- name: Minjune Kim
+  affiliation: AIRS Inc
+  country: Republic of Korea
+
 ---
 
 # Project Description

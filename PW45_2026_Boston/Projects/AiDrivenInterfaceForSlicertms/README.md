@@ -27,6 +27,10 @@ key_investigators:
 
 ---
 
+## Funding Source(s)
+
+- [R01MH136160](https://reporter.nih.gov/search/SEOOmJZKs0ynoKRgr0d3sw/project-details/11289467)
+
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->
